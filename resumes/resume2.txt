@@ -1,0 +1,11 @@
+Profile:
+Software developer with interest in backend systems.
+
+Skills:
+Python, Core Java, SQL
+Basic knowledge of data analysis
+Worked with small datasets
+
+Education:
+Bachelor of Engineering in Computer Science
+

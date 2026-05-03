@@ -1,0 +1,18 @@
+Objective:
+Junior Data Analyst role.
+
+Skills:
+Python, Pandas, NumPy, SQL,
+Data Analysis, Data Visualization,
+Machine Learning
+
+Experience:
+Analyze large datasets using Python.
+Work with Pandas, NumPy, and SQL.
+Create data visualization and reports.
+Perform basic machine learning tasks.
+Communicate insights to the team.
+
+Education:
+B.Tech in Artificial Intelligence and Data Science
+
